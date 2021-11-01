@@ -12,7 +12,7 @@ React and typescript based single page application for managing games.
 
 ## Development
 
-To run application, clone `master` branch locally, execute following commands and open browser on http://localhost:3000/.
+To run application, clone `main` branch locally, execute following commands and open browser on http://localhost:3000/.
 ```
 npm install
 npm start
